@@ -3,7 +3,7 @@
     This program can be used for compressing/decompressing files.
 The program is based on the Huffman algorithm. The format of the archived files
 is '.par'. The program has been developed as a study assignment during studying
-in Ø++ School https://programming.org.ua
+in Ð¨++ School https://programming.org.ua
 
     If you run program without any parameters it tries to compress 'test.txt'
 file by default. If you run program and provide file name as a parameter,
