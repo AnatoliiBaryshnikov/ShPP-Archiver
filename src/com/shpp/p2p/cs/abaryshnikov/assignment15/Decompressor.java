@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class Decompressor implements Constants {
 
     /**
-     * This method is used for compressing file
+     * This method is used for decompressing file
      *
      * @param inputFName    path to .par file that need to be decompressed
      * @param outputFName   path to decompressed file
